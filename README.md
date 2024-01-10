@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![alt text]([http://url/to/img.png](https://github.com/ktlz/travel_app/blob/main/public/travel-screen.png))
+![alt text]([http://url/to/img.png](https://github.com/ktlz/travel_app/blob/main/public/travel-screen.png?raw=true))
 
 ## Getting Started
 
